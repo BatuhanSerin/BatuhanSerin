@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### Skills
+
+- C/C++
+- Python
+- Javascript
+- HTML/CSS
+- Golang
+
+#### Linkedin
+
+#### Heading 1 link (https://www.linkedin.com/in/batuhanserin/ "Heading link")
 <!--
 **BatuhanSerin/BatuhanSerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
