@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-------------
 #### Skills:
 - C/C++
 - Python
