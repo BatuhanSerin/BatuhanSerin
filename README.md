@@ -8,9 +8,8 @@
 - HTML/CSS
 - Golang
 
-#### Linkedin
 
-#### Heading 1 link (https://www.linkedin.com/in/batuhanserin/ "Heading link")
+#### Linkedin (https://www.linkedin.com/in/batuhanserin/)
 <!--
 **BatuhanSerin/BatuhanSerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
