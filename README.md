@@ -9,7 +9,7 @@
 - Golang
 
 
-#### Linkedin (https://www.linkedin.com/in/batuhanserin/)
+#### Linkedin: https://www.linkedin.com/in/batuhanserin/
 <!--
 **BatuhanSerin/BatuhanSerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
