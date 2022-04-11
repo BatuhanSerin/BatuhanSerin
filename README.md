@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Skills
-
+------------
 - C/C++
 - Python
 - Javascript
