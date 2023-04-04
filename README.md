@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### Skills:
-- C/C++
 - Python
-- Javascript
+- Javascript / Typescript
 - HTML/CSS
 - Golang
+- C/C++
 
 ------------
 #### Linkedin: https://www.linkedin.com/in/batuhanserin/
