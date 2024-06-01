@@ -6,6 +6,12 @@
 - HTML/CSS
 - Golang
 - C/C++
+- Java/Spring Boot
+- Docker
+- Apache Kafka
+- Redis
+- Node.js/Nest.js
+
 
 ------------
 #### Linkedin: https://www.linkedin.com/in/batuhanserin/
